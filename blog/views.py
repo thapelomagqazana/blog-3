@@ -8,6 +8,7 @@ def post_list(request):
                   "blog/post/list.html",
                   {"posts": posts})
 
+
 def post_detail(request, id):
     post = get_object_or_404(Post,
                              id=id,
