@@ -1,0 +1,1043 @@
+[
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2024-02-07T20:59:31.145Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Who is Django Reinhardt?",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2024-02-07T20:59:41.725Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Who is Django Reinhardt?",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2024-02-07T21:16:16.800Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Who is Lionel Messi?",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2024-02-08T08:03:24.738Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Who is Django Reinhardt?",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2024-02-08T08:03:37.186Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Who is Lionel Messi?",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2024-02-08T09:21:08.705Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "Notes on Shelby GT500",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2024-02-08T09:22:01.094Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "Notes on HIIT workout",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2024-02-08T13:13:36.344Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "1",
+    "object_repr": "Comment by Thapelo on Notes on Shelby GT500",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2024-02-08T13:14:29.604Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "1",
+    "object_repr": "Comment by Thapelo on Notes on Shelby GT500",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Active\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2024-02-08T13:44:41.969Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Who is Django Reinhardt?",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2024-02-08T13:45:39.943Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Who is Lionel Messi?",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2024-02-08T13:46:00.544Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "Notes on Shelby GT500",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2024-02-08T13:46:23.795Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "Notes on HIIT workout",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2024-02-08T15:49:11.049Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "Who is Miles Davis",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2024-02-08T16:49:43.731Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": "Markdown Post",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2024-02-08T16:54:41.354Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": "Markdown Post",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2024-02-08T19:16:37.199Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "1",
+    "object_repr": "localhost:8000",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Domain name\", \"Display name\"]}}]"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 1,
+  "fields": {
+    "name": "Can add log entry",
+    "content_type": 1,
+    "codename": "add_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 2,
+  "fields": {
+    "name": "Can change log entry",
+    "content_type": 1,
+    "codename": "change_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 3,
+  "fields": {
+    "name": "Can delete log entry",
+    "content_type": 1,
+    "codename": "delete_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 4,
+  "fields": {
+    "name": "Can view log entry",
+    "content_type": 1,
+    "codename": "view_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 5,
+  "fields": {
+    "name": "Can add permission",
+    "content_type": 2,
+    "codename": "add_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 6,
+  "fields": {
+    "name": "Can change permission",
+    "content_type": 2,
+    "codename": "change_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 7,
+  "fields": {
+    "name": "Can delete permission",
+    "content_type": 2,
+    "codename": "delete_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 8,
+  "fields": {
+    "name": "Can view permission",
+    "content_type": 2,
+    "codename": "view_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 9,
+  "fields": {
+    "name": "Can add group",
+    "content_type": 3,
+    "codename": "add_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 10,
+  "fields": {
+    "name": "Can change group",
+    "content_type": 3,
+    "codename": "change_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 11,
+  "fields": {
+    "name": "Can delete group",
+    "content_type": 3,
+    "codename": "delete_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 12,
+  "fields": {
+    "name": "Can view group",
+    "content_type": 3,
+    "codename": "view_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 13,
+  "fields": {
+    "name": "Can add user",
+    "content_type": 4,
+    "codename": "add_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 14,
+  "fields": {
+    "name": "Can change user",
+    "content_type": 4,
+    "codename": "change_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 15,
+  "fields": {
+    "name": "Can delete user",
+    "content_type": 4,
+    "codename": "delete_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 16,
+  "fields": {
+    "name": "Can view user",
+    "content_type": 4,
+    "codename": "view_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 17,
+  "fields": {
+    "name": "Can add content type",
+    "content_type": 5,
+    "codename": "add_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 18,
+  "fields": {
+    "name": "Can change content type",
+    "content_type": 5,
+    "codename": "change_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 19,
+  "fields": {
+    "name": "Can delete content type",
+    "content_type": 5,
+    "codename": "delete_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 20,
+  "fields": {
+    "name": "Can view content type",
+    "content_type": 5,
+    "codename": "view_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 21,
+  "fields": {
+    "name": "Can add session",
+    "content_type": 6,
+    "codename": "add_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 22,
+  "fields": {
+    "name": "Can change session",
+    "content_type": 6,
+    "codename": "change_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 23,
+  "fields": {
+    "name": "Can delete session",
+    "content_type": 6,
+    "codename": "delete_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 24,
+  "fields": {
+    "name": "Can view session",
+    "content_type": 6,
+    "codename": "view_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 25,
+  "fields": {
+    "name": "Can add post",
+    "content_type": 7,
+    "codename": "add_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 26,
+  "fields": {
+    "name": "Can change post",
+    "content_type": 7,
+    "codename": "change_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 27,
+  "fields": {
+    "name": "Can delete post",
+    "content_type": 7,
+    "codename": "delete_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 28,
+  "fields": {
+    "name": "Can view post",
+    "content_type": 7,
+    "codename": "view_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 29,
+  "fields": {
+    "name": "Can add comment",
+    "content_type": 8,
+    "codename": "add_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 30,
+  "fields": {
+    "name": "Can change comment",
+    "content_type": 8,
+    "codename": "change_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 31,
+  "fields": {
+    "name": "Can delete comment",
+    "content_type": 8,
+    "codename": "delete_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 32,
+  "fields": {
+    "name": "Can view comment",
+    "content_type": 8,
+    "codename": "view_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 33,
+  "fields": {
+    "name": "Can add tag",
+    "content_type": 9,
+    "codename": "add_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 34,
+  "fields": {
+    "name": "Can change tag",
+    "content_type": 9,
+    "codename": "change_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 35,
+  "fields": {
+    "name": "Can delete tag",
+    "content_type": 9,
+    "codename": "delete_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 36,
+  "fields": {
+    "name": "Can view tag",
+    "content_type": 9,
+    "codename": "view_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 37,
+  "fields": {
+    "name": "Can add tagged item",
+    "content_type": 10,
+    "codename": "add_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 38,
+  "fields": {
+    "name": "Can change tagged item",
+    "content_type": 10,
+    "codename": "change_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 39,
+  "fields": {
+    "name": "Can delete tagged item",
+    "content_type": 10,
+    "codename": "delete_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 40,
+  "fields": {
+    "name": "Can view tagged item",
+    "content_type": 10,
+    "codename": "view_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 41,
+  "fields": {
+    "name": "Can add site",
+    "content_type": 11,
+    "codename": "add_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 42,
+  "fields": {
+    "name": "Can change site",
+    "content_type": 11,
+    "codename": "change_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 43,
+  "fields": {
+    "name": "Can delete site",
+    "content_type": 11,
+    "codename": "delete_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 44,
+  "fields": {
+    "name": "Can view site",
+    "content_type": 11,
+    "codename": "view_site"
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$9KVdY8nGI8BlQf9sccQMoX$JnTbdr9z5BPHqVx4g6fjJ19YYfX/EMc8Z8taeuaQR1E=",
+    "last_login": "2024-02-08T08:03:07.422Z",
+    "is_superuser": true,
+    "username": "thapelo",
+    "first_name": "",
+    "last_name": "",
+    "email": "tapsmcgzee8@gmail.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2024-02-07T20:49:23.319Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 1,
+  "fields": {
+    "app_label": "admin",
+    "model": "logentry"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 2,
+  "fields": {
+    "app_label": "auth",
+    "model": "permission"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 3,
+  "fields": {
+    "app_label": "auth",
+    "model": "group"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 4,
+  "fields": {
+    "app_label": "auth",
+    "model": "user"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 5,
+  "fields": {
+    "app_label": "contenttypes",
+    "model": "contenttype"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 6,
+  "fields": {
+    "app_label": "sessions",
+    "model": "session"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 7,
+  "fields": {
+    "app_label": "blog",
+    "model": "post"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 8,
+  "fields": {
+    "app_label": "blog",
+    "model": "comment"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 9,
+  "fields": {
+    "app_label": "taggit",
+    "model": "tag"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 10,
+  "fields": {
+    "app_label": "taggit",
+    "model": "taggeditem"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 11,
+  "fields": {
+    "app_label": "sites",
+    "model": "site"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "1uj6e309s4ujfzi9d0dghi6uomh6tzqf",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQRe_C2hAogzAu3fcMBIZBqoYmpV0Z765NutDtf-_9lwhxW2vYOi9hyuIitDj9binSg9sO8j222yxpbusyJbkr8qBdjnPm5_Vw_w5q7PVbe2s0YELrwSWVCZnJcRms1oaj1aaYlICVPRciQOcsGOUHJAAPGrN4fwDRlTcm:1rXotJ:a60_UDPz0Ur_LyyEvjQcCj8_5N3CF2qwOdThn0Z_w7o",
+    "expire_date": "2024-02-21T20:51:33.650Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "gge5tzfnen3397w94z3lrua86cd5gnv0",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQRe_C2hAogzAu3fcMBIZBqoYmpV0Z765NutDtf-_9lwhxW2vYOi9hyuIitDj9binSg9sO8j222yxpbusyJbkr8qBdjnPm5_Vw_w5q7PVbe2s0YELrwSWVCZnJcRms1oaj1aaYlICVPRciQOcsGOUHJAAPGrN4fwDRlTcm:1rXzND:jsoH8hCL0xhifambSaouC2Sqd0SqC0_VWkgbrHRiCuI",
+    "expire_date": "2024-02-22T08:03:07.432Z"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 1,
+  "fields": {
+    "title": "Who is Django Reinhardt?",
+    "slug": "who-is-django-reinhardt",
+    "author": 1,
+    "body": "Django Reinhardt was a Belgian-born Romani-French jazz guitarist and composer. Born in 1910, he is regarded as one of the most influential guitarists in the history of jazz music. Reinhardt is best known for pioneering a unique style of jazz guitar playing known as \"gypsy jazz\" or \"hot jazz,\" characterized by its fast tempos, virtuosic improvisation, and the use of Django's signature technique despite a disability.\r\n\r\nDjango Reinhardt's career flourished in the 1930s and 1940s, particularly during the swing era. He co-founded the Quintette du Hot Club de France with violinist Stéphane Grappelli, and their collaborations produced some of the most iconic jazz recordings of the time. Despite suffering severe burns in a fire that paralyzed two of his fingers on his left hand, Reinhardt adapted his technique to accommodate his disability, developing an innovative style that emphasized his remarkable dexterity and improvisational skill.\r\n\r\nReinhardt's legacy extends far beyond his lifetime, influencing generations of guitarists and jazz musicians. His compositions, such as \"Minor Swing\" and \"Nuages,\" remain staples of the jazz repertoire. Django Reinhardt's impact on music continues to be celebrated, with numerous festivals, recordings, and tributes honoring his contributions to the genre.",
+    "publish": "2024-02-07T20:58:10Z",
+    "created": "2024-02-07T20:59:31.098Z",
+    "updated": "2024-02-08T13:44:41.841Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 2,
+  "fields": {
+    "title": "Who is Lionel Messi?",
+    "slug": "who-is-lionel-messi",
+    "author": 1,
+    "body": "Lionel Messi is an Argentine professional footballer widely regarded as one of the greatest players in the history of the sport. Born in 1987 in Rosario, Argentina, Messi began his football career at a young age, joining the youth team of his local club, Newell's Old Boys. At the age of 13, he moved to Spain to join the youth academy of FC Barcelona after being offered a contract by the club's sporting director, Carles Rexach, who was impressed by Messi's talent.\r\n\r\nMessi made his first-team debut for Barcelona in 2004 at the age of 17 and quickly established himself as a key player for the club. Known for his exceptional dribbling skills, vision, and goal-scoring ability, Messi has won numerous individual awards throughout his career, including the FIFA Ballon d'Or (now known as The Best FIFA Men's Player) multiple times.\r\n\r\nDuring his time at Barcelona, Messi has helped the club win numerous domestic and international titles, including La Liga, the Copa del Rey, and the UEFA Champions League. He holds numerous records for both Barcelona and in international football, including becoming Barcelona's all-time leading scorer.\r\n\r\nIn August 2021, Messi left Barcelona due to financial constraints facing the club and signed with Paris Saint-Germain (PSG). Despite the change in clubs, Messi's impact on the sport remains immense, and he continues to be a dominant force on the field, captivating fans worldwide with his extraordinary skill and talent.",
+    "publish": "2024-02-07T21:14:50Z",
+    "created": "2024-02-07T21:16:16.792Z",
+    "updated": "2024-02-08T13:45:39.880Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 3,
+  "fields": {
+    "title": "Notes on Shelby GT500",
+    "slug": "notes-on-shelby-gt500",
+    "author": 1,
+    "body": "The Shelby GT500 is a high-performance variant of the Ford Mustang, produced by Shelby American. Here are some key points about the Shelby GT500:\r\n\r\n    Heritage: The GT500 traces its roots back to the 1960s when Carroll Shelby, an American automotive designer and racing driver, collaborated with Ford to create high-performance versions of the Mustang. The original GT500 debuted in 1967.\r\n\r\n    Power: Known for its powerful engines, the modern Shelby GT500 is no exception. The latest iterations have featured supercharged V8 engines delivering immense horsepower, making them among the most powerful production Mustangs ever built.\r\n\r\n    Performance: The GT500 is designed to deliver exhilarating performance both on the track and on the road. With advanced suspension systems, aerodynamic enhancements, and high-performance braking systems, it offers impressive handling and stopping power to complement its straight-line speed.\r\n\r\n    Technology: Modern GT500 models come equipped with a range of advanced technology features, including customizable driving modes, launch control, and sophisticated infotainment systems, bringing together performance and comfort.\r\n\r\n    Limited Production: The Shelby GT500 is typically produced in limited numbers, adding to its exclusivity and desirability among enthusiasts. Limited-edition variants with unique styling and performance enhancements are often released to commemorate significant milestones or anniversaries.\r\n\r\n    Iconic Design: The GT500's design pays homage to its heritage while incorporating modern styling cues. From its aggressive front fascia with distinctive grille and air intakes to its muscular body lines and iconic racing stripes, the GT500 exudes a sense of power and performance.\r\n\r\n    Collector's Item: Due to its limited production and iconic status, the Shelby GT500 has become a sought-after collector's item among automotive enthusiasts, with well-maintained examples commanding high prices in the secondary market.\r\n\r\nOverall, the Shelby GT500 represents the pinnacle of performance for the Mustang lineup, combining heritage, power, and advanced technology to create a thrilling driving experience.",
+    "publish": "2024-02-08T09:19:51Z",
+    "created": "2024-02-08T09:21:08.690Z",
+    "updated": "2024-02-08T13:46:00.476Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 4,
+  "fields": {
+    "title": "Notes on HIIT workout",
+    "slug": "notes-on-hiit-workout",
+    "author": 1,
+    "body": "High-Intensity Interval Training (HIIT) is a form of cardiovascular exercise characterized by short bursts of intense activity followed by periods of rest or lower-intensity activity. Here are some key points about HIIT workouts:\r\n\r\n    Efficiency: HIIT workouts are known for their efficiency. Due to the high intensity of the exercises, they can be completed in a relatively short amount of time compared to traditional steady-state cardio workouts.\r\n\r\n    Intensity: HIIT involves alternating between periods of maximum effort and periods of rest or active recovery. The high-intensity intervals push your heart rate up, while the recovery intervals allow for brief rest before the next intense effort.\r\n\r\n    Versatility: HIIT workouts can be adapted to different fitness levels and preferences. They can involve various exercises such as sprinting, cycling, jumping jacks, burpees, and more. Additionally, the duration and intensity of the intervals can be adjusted based on individual fitness goals.\r\n\r\n    Benefits: HIIT offers numerous health benefits, including improved cardiovascular fitness, increased calorie burn both during and after exercise (due to excess post-exercise oxygen consumption or EPOC), enhanced metabolism, and improved insulin sensitivity.\r\n\r\n    Convenience: HIIT workouts can be done with minimal equipment and space, making them suitable for home workouts or when time and resources are limited. Many HIIT routines also require only body weight exercises, making them accessible to a wide range of people.\r\n\r\n    Variety: HIIT allows for endless variations in exercise selection, interval timing, and workout structure. This variety helps prevent boredom and keeps the workouts challenging and engaging over time.\r\n\r\n    Safety: While HIIT can be highly effective, it's essential to approach it with caution, especially for beginners or those with underlying health conditions. It's crucial to warm up properly, listen to your body, and gradually increase intensity and duration over time to avoid injury.\r\n\r\nOverall, HIIT workouts offer a time-efficient and effective way to improve cardiovascular health, boost metabolism, and enhance overall fitness levels. Incorporating HIIT into your exercise routine can help you achieve your fitness goals efficiently while enjoying the variety and intensity of the workouts.",
+    "publish": "2024-02-08T09:21:13Z",
+    "created": "2024-02-08T09:22:01.062Z",
+    "updated": "2024-02-08T13:46:23.692Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 5,
+  "fields": {
+    "title": "Who is Miles Davis",
+    "slug": "who-is-miles-davis",
+    "author": 1,
+    "body": "Miles Davis was an influential and iconic American jazz trumpeter, bandleader, and composer. Born on May 26, 1926, in Alton, Illinois, Davis is one of the most important figures in the history of jazz music. Here are some key points about him:\r\n\r\n    Innovative Musician: Davis was known for his innovative approach to jazz, constantly pushing boundaries and exploring new musical territories. He was at the forefront of several major jazz movements, including bebop, cool jazz, hard bop, modal jazz, and jazz fusion.\r\n\r\n    Signature Sound: Davis had a distinct trumpet sound characterized by his use of muted trumpet, melodic improvisation, and expressive phrasing. His playing style was often minimalist yet highly emotive, with a focus on tone and texture.\r\n\r\n    Influential Albums: Davis released numerous groundbreaking albums throughout his career. Some of his most famous recordings include \"Kind of Blue,\" often regarded as one of the greatest jazz albums of all time, \"Bitches Brew,\" a landmark album in the fusion genre, and \"Miles Ahead,\" showcasing his collaboration with arranger Gil Evans.\r\n\r\n    Collaborations: Davis collaborated with many other legendary musicians throughout his career, including saxophonist John Coltrane, pianist Herbie Hancock, drummer Tony Williams, and guitarist John McLaughlin, among others. These collaborations often resulted in some of the most innovative and influential recordings in jazz history.\r\n\r\n    Cultural Impact: Beyond his musical contributions, Davis was also a significant cultural figure. He played a crucial role in breaking down racial barriers in the music industry and was an influential figure in the civil rights movement. His image, style, and music continue to inspire artists and musicians across genres to this day.\r\n\r\n    Awards and Recognition: Davis received numerous awards and accolades throughout his career, including multiple Grammy Awards. He was posthumously inducted into the Rock and Roll Hall of Fame in 2006 and received a Grammy Lifetime Achievement Award in 1990.\r\n\r\n    Legacy: Miles Davis' legacy extends far beyond his lifetime. He is widely regarded as one of the greatest musicians of the 20th century and has left an indelible mark on the world of music. His recordings continue to be celebrated, studied, and enjoyed by audiences around the world, ensuring that his influence will endure for generations to come.",
+    "publish": "2024-02-08T15:48:24Z",
+    "created": "2024-02-08T15:49:11.009Z",
+    "updated": "2024-02-08T15:49:11.009Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 6,
+  "fields": {
+    "title": "Markdown Post",
+    "slug": "markdown-post",
+    "author": 1,
+    "body": "This is a post formatted with markdown\r\n--------------------------------------\r\n\r\n*This is emphasized* and **this is more emphasized**.\r\n\r\nHere is a list:\r\n\r\n* One\r\n* Two\r\n* Three\r\n\r\nAnd a [link to the Django website](https://www.djangoproject.com/).",
+    "publish": "2024-02-08T16:48:53Z",
+    "created": "2024-02-08T16:49:43.617Z",
+    "updated": "2024-02-08T16:54:41.327Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 1,
+  "fields": {
+    "post": 3,
+    "name": "Thapelo",
+    "email": "tapsmcgzee8@gmail.com",
+    "body": "Nice post",
+    "created": "2024-02-08T13:08:25.026Z",
+    "updated": "2024-02-08T13:14:29.599Z",
+    "active": false
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 2,
+  "fields": {
+    "post": 3,
+    "name": "Thapelo",
+    "email": "tapsmcgzee8@gmail.com",
+    "body": "Great post",
+    "created": "2024-02-08T13:10:30.094Z",
+    "updated": "2024-02-08T13:10:30.094Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 3,
+  "fields": {
+    "post": 3,
+    "name": "Thapelo",
+    "email": "tapsmcgzee8@gmail.com",
+    "body": "Cool post",
+    "created": "2024-02-08T13:11:04.520Z",
+    "updated": "2024-02-08T13:11:04.520Z",
+    "active": true
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 1,
+  "fields": {
+    "name": "jazz",
+    "slug": "jazz"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 2,
+  "fields": {
+    "name": "music",
+    "slug": "music"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 3,
+  "fields": {
+    "name": "GOAT",
+    "slug": "goat"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 4,
+  "fields": {
+    "name": "football",
+    "slug": "football"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 5,
+  "fields": {
+    "name": "ford",
+    "slug": "ford"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 6,
+  "fields": {
+    "name": "muscle",
+    "slug": "muscle"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 7,
+  "fields": {
+    "name": "health",
+    "slug": "health"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 8,
+  "fields": {
+    "name": "exercise",
+    "slug": "exercise"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 9,
+  "fields": {
+    "name": "markdown",
+    "slug": "markdown"
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 1,
+  "fields": {
+    "tag": 1,
+    "content_type": 7,
+    "object_id": 1
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 2,
+  "fields": {
+    "tag": 2,
+    "content_type": 7,
+    "object_id": 1
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 3,
+  "fields": {
+    "tag": 3,
+    "content_type": 7,
+    "object_id": 2
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 4,
+  "fields": {
+    "tag": 4,
+    "content_type": 7,
+    "object_id": 2
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 5,
+  "fields": {
+    "tag": 5,
+    "content_type": 7,
+    "object_id": 3
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 6,
+  "fields": {
+    "tag": 6,
+    "content_type": 7,
+    "object_id": 3
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 7,
+  "fields": {
+    "tag": 8,
+    "content_type": 7,
+    "object_id": 4
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 8,
+  "fields": {
+    "tag": 7,
+    "content_type": 7,
+    "object_id": 4
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 9,
+  "fields": {
+    "tag": 1,
+    "content_type": 7,
+    "object_id": 5
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 10,
+  "fields": {
+    "tag": 2,
+    "content_type": 7,
+    "object_id": 5
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 11,
+  "fields": {
+    "tag": 9,
+    "content_type": 7,
+    "object_id": 6
+  }
+},
+{
+  "model": "sites.site",
+  "pk": 1,
+  "fields": {
+    "domain": "localhost:8000",
+    "name": "localhost:8000"
+  }
+}
+]
